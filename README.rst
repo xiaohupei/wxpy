@@ -76,6 +76,8 @@ wxpy 支持 Python 3.4-3.6，以及 2.7 版本
 
 登陆微信:
 
+in terminal run Python3.6, then you can play with it via terminal
+
 ..  code:: python
 
     # 导入模块
